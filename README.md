@@ -8,16 +8,23 @@ Here is some of my code and projects as I learn C++.
 
 #### For C++ auto format config (no new line for bracket - settings.json)
 ```json
-"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }"
+"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2 }"
 ```
 
-#### Code Runner
+#### [Code Runner Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) (VS Code)
 ```json
 "code-runner.executorMap": {
     "cpp": "g++ $fullFileName && ./a.exe"
 }
 ```
+### Important Links
+- [Code Runner Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [Stack Overflow C++ Formatting](https://stackoverflow.com/questions/46111834/format-curly-braces-on-same-line-in-c-vscode)
+- [MinGW - Source Forge](https://sourceforge.net/projects/mingw/files/)
+- [C++ Setup Win 10 - Youtube](https://www.youtube.com/watch?v=DIw02CaEusY)
 
+
+<!-- Important Config for C++ -->
 <!-- {
     "configurations": [
         {

@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Open the pod bay doors Hal." << endl;
+  cout << "Open the pod bay doors Hal." << endl;
 
-    return 0;
+  return 0;
 }
