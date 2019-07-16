@@ -19,6 +19,7 @@ Here is some of my code and projects as I learn C++.
 ```
 ### Important Links
 - [Intro to C++ (by Microsoft - edx)](https://www.edx.org/course/introduction-to-c-5) - **Note:** this course may be archived, use MIT's open courseware or some other resource
+- [Header Files Explained](https://www.youtube.com/watch?v=9RJTQmK0YPI)
 - [Initialize vs Define vs Declare in C++ (stackoverflow)](https://stackoverflow.com/questions/23345554/the-differences-between-initialize-define-declare-a-variable)
 - [Code Runner Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [Stack Overflow C++ Formatting](https://stackoverflow.com/questions/46111834/format-curly-braces-on-same-line-in-c-vscode)
