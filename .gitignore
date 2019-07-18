@@ -1,4 +1,7 @@
 # Compiled C++ files
 *.exe
 
+# Java ignore files as well
+*.class
+/.bin/
 /build/
