@@ -1,3 +1,5 @@
+## Update: I have learned C++. I guess I should have kept up with the edX course... whoops
+
 # Learning C++, Projects
 
 Here is some of my code and projects as I learn C++.
